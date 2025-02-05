@@ -1,0 +1,5 @@
+Flask
+Flask-Ngrok
+Stanza
+langid
+requests
